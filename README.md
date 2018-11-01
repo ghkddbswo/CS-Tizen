@@ -1,8 +1,8 @@
 # CS-Tizen
 
-*typo
+#typo
   *https::/www.github.com
-  *language
+  #language
    *c++
    *JAVA
- *build
+ #build
